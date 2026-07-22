@@ -1,6 +1,6 @@
 # Code for TMB Paper
 
-This repository contains the scripts used to generate the analyses and figures for:
+This repository contains all scripts, input data, and software dependency files required to reproduce the analyses presented in the manuscript:
 
 > **Association of high tumor mutational burden with brain metastases: Insights from a large-scale database analysis**
 >
@@ -12,7 +12,7 @@ This repository contains the scripts used to generate the analyses and figures f
 
 ## Repository files
 
-Script files:
+Analysis scripts:
 
 - `.R` – R scripts for figures 2, 3 and 4A-D
 - `.ipynb` – Python Jupyter notebook for figure 4E
