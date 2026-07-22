@@ -6,7 +6,7 @@ This repository contains the scripts used to generate the analyses and figures f
 >
 > Marana Abboud, Saumya Sisoudiya, Benjamin Kaplan, Tomer Elisha, Laureen Goodman, Fayhaa Khair, Smruthy Sivakumar, Ethan Sokol, Ido Wolf and Tami Rubinek2
 >
-> Neuro-Oncology
+> Submitted to Neuro-Oncology
 
 ---
 
@@ -42,7 +42,7 @@ The computational environment used for this work is documented in:
 
 If you use this repository, please cite:
 
-Paper citation
+Citation will be added upon publication.
 
 ---
 
